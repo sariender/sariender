@@ -1,6 +1,6 @@
 <div align="center">
 
-**Hey!**<br>
+<strong>Hey!</strong><br>
 I'm Ender
 
 <img src="assets/learning-loop.gif" alt="Learning loop" width="560">
